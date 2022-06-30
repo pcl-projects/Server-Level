@@ -1,0 +1,12 @@
+[submodule "ps_level_server_level/for_kubernetes/ps_level/zeyu_utils"]
+	path = ps_level_server_level/for_kubernetes/ps_level/zeyu_utils
+	url = https://github.com/Zeyu-ZEYU/zeyu_utils.git
+[submodule "ps_level_server_level/for_kubernetes/server_level/zeyu_utils"]
+	path = ps_level_server_level/for_kubernetes/server_level/zeyu_utils
+	url = https://github.com/Zeyu-ZEYU/zeyu_utils.git
+[submodule "ps_level_server_level/for_native/server_level/zeyu_utils"]
+	path = ps_level_server_level/for_native/server_level/zeyu_utils
+	url = https://github.com/Zeyu-ZEYU/zeyu_utils.git
+[submodule "ps_level_server_level/for_native/ps_level/zeyu_utils"]
+	path = ps_level_server_level/for_native/ps_level/zeyu_utils
+	url = https://github.com/Zeyu-ZEYU/zeyu_utils.git
